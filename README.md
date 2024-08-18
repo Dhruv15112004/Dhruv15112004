@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm **Dhruv Maheshwari**!
 
-![Animated Pic](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif) <!-- Your animated image -->
-
 Welcome to my GitHub profile! 🎉
 
 I'm a dedicated **Front-End Developer** passionate about creating visually appealing and user-friendly web experiences. Currently, I'm focusing on honing my skills in HTML, CSS, and JavaScript, with a keen interest in building responsive and interactive websites.
+
+![Animated Pic](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-maheshwari-ba58b7259/) 
