@@ -3,8 +3,7 @@
   <br />
   <span style="font-size: 4em; color: white; background: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px;">
   </span>
-</p>
-Welcome to my GitHub profile! 🎉
+</p>Welcome to my GitHub profile! 🎉
 
 I'm a dedicated **Front-End Developer** passionate about creating visually appealing and user-friendly web experiences. Currently, I'm focusing on honing my skills in HTML, CSS, and JavaScript, with a keen interest in building responsive and interactive websites.
 
