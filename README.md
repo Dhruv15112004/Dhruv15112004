@@ -18,8 +18,11 @@ I'm a dedicated **Front-End Developer** passionate about creating visually appea
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dhruv15112004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://www.codecademy.com/resources/blog/wp-content/uploads/2024/01/Chris-Pine-quote.png?w=800))
+
+### ✍️ Dev Quote
+
+![Coding Quote](https://www.codecademy.com/resources/blog/wp-content/uploads/2024/01/Chris-Pine-quote.png?w=800)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dhruv15112004&limit=5&theme=dark&combine_all_yearly_contributions=true)
