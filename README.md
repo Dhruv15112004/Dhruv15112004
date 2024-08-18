@@ -1,4 +1,10 @@
-# 👋 Hi there, I'm **Dhruv Maheshwari**!
+<p align="center">
+  <img src="https://camo.githubusercontent.com/6a6453bc40c986c7e08dfbac66e5c6b4ab4bf025b04b22fe3ccac0c9a0f4f1ec/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d352c312c352c31322c323126746578743d4869253230546865726521266865696768743d31353026616e696d6174696f6e3d66616465496e26666f6e7453697a653d3735" alt="Background" style="width:100%; max-width:1200px; height:auto;"/>
+  <br />
+  <span style="font-size: 4em; color: white; background: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px;">
+    👋 Hi there, I'm **Dhruv Maheshwari**!
+  </span>
+</p>
 Welcome to my GitHub profile! 🎉
 
 I'm a dedicated **Front-End Developer** passionate about creating visually appealing and user-friendly web experiences. Currently, I'm focusing on honing my skills in HTML, CSS, and JavaScript, with a keen interest in building responsive and interactive websites.
