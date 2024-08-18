@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm **Dhruv Maheshwari**!
+# <h1 style="font-size: 4em; background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnNZnyDNXUS_uMz2FuArhE2G8KE-8YNbZ7Q&s') no-repeat center center; background-size: cover; color: white; padding: 20px; border-radius: 10px; text-align: center;">
+  👋 Hi there, I'm **Dhruv Maheshwari**!
+</h1>
 
 Welcome to my GitHub profile! 🎉
 
