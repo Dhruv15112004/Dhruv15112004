@@ -15,7 +15,7 @@ I'm a dedicated **Front-End Developer** passionate about creating visually appea
 - Front-End Frameworks (e.g., React, Vue.js)
 
 ## 📈 GitHub Stats
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvMaheshwari&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv15112004&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
 ## 📫 Connect with Me
 - [LinkedIn]([https://www.linkedin.com/in/dhruv-maheshwari](https://www.linkedin.com/in/dhruv-maheshwari-ba58b7259/))
