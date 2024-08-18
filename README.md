@@ -1,6 +1,10 @@
-# <h1 style="font-size: 4em; color: white; background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjF1tG7BtYMhqG5Yd2WAfURbFlJ-B7pfXCCA&s') no-repeat center center; background-size: cover; padding: 20px; border-radius: 10px; text-align: center;">
-  👋 Hi there, I'm **Dhruv Maheshwari**!
-</h1>
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjF1tG7BtYMhqG5Yd2WAfURbFlJ-B7pfXCCA&s" alt="Background" style="width:100%; max-width:1200px; height:auto;"/>
+  <br />
+  <span style="font-size: 4em; color: white; background: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px;">
+    👋 Hi there, I'm **Dhruv Maheshwari**!
+  </span>
+</p>
 
 Welcome to my GitHub profile! 🎉
 
