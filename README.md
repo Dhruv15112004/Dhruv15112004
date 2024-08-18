@@ -38,5 +38,5 @@ Feel free to explore my repositories and reach out if you’d like to collaborat
 
 ---
 
-*"Working hard to give my 120% in every project!"* 💪
+*Working hard to give my 120% in every project!*💪
 
