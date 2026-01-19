@@ -1,113 +1,189 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,1,5,12,21&text=Hi%20There!&height=160&animation=fadeIn&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,1,5,12,21&height=160&text=Hi%20There!&fontSize=70&animation=fadeIn" />
 </p>
 
 <h1 align="center">Dhruv Maheshwari</h1>
-<h3 align="center">Frontend Developer | GenAI & Agentic Systems Enthusiast</h3>
+<h3 align="center">Full-Stack Developer • GenAI & Agentic Systems Engineer</h3>
 
 <p align="center">
-  Building reliable, production-style systems — not demos.
+  <i>
+    My projects represent a space of infinite possibilities,  
+    only one step removed from reality.
+  </i>
+</p>
+
+<p align="center">
+  — <b>The rUv Enterprise AI Guide</b>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Who Am I?
 
-I’m a **Frontend Developer** with a growing focus on **Generative AI engineering and agentic systems**.  
-I care deeply about **engineering rigor**, **clean abstractions**, and **production-readiness**.
+I am a **Full-Stack Web Developer** with a strong foundation in **Frontend, Backend, Cloud**, and a rapidly deepening focus on **Generative AI and Agentic Systems**.
 
-- 🎯 Building **recruiter-ready GenAI projects**, not toy chatbots  
-- 🧠 Strong fundamentals in **LLMs, RAG pipelines, and reliability engineering**  
-- 💻 Frontend background with HTML, CSS, JavaScript  
-- 📚 Daily practice of **DSA in Java** for problem-solving depth  
-- ⚙️ Obsessed with *why systems fail* — and how to make them robust
+I don’t build demos.  
+I build **systems**.
 
-> *I don’t just make things work. I make them dependable.*
+- 🌐 Full-stack web applications (frontend → backend → cloud)
+- 🤖 Agentic AI systems with orchestration, evaluation & safety
+- 🧠 LLM pipelines focused on **reliability, grounding, and determinism**
+- 📚 Strong problem-solving via **DSA in Java**
+- ⚙️ Engineering mindset over prompt hacks
+
+> I care about how systems behave under failure, not just when they work.
 
 ---
 
-## 🧠 Current Focus (2025–Present)
+## 🚀 Core Skill Domains
 
-- **Domain Agentic LLM Systems**
-  - Intent → Retrieval → Reasoning orchestration
-  - Deterministic evaluation & schema validation
-  - Grounded responses, bounded retries, failure logging
-- **LLM Reliability Engineering**
-  - Consistency testing
-  - Confidence calibration
-  - Retry logic & failure modes
-- **Frontend Engineering**
-  - Responsive layouts
-  - Clean UI logic
-  - Performance-aware design
+### 🌐 Full-Stack Web Development
+- Frontend: **HTML, CSS, JavaScript**
+- Backend: **FastAPI, Flask**
+- APIs: RESTful design, validation, error handling
+- Auth, file uploads, async processing
+- Deployment & cloud integration
+
+### 🤖 Generative AI & Agentic Systems
+- Agent orchestration (intent → retrieval → reasoning)
+- Tool-calling & MCP-style execution
+- Deterministic evaluation layers
+- Bounded retries & self-correction
+- Grounded outputs (anti-hallucination design)
+
+### ☁️ Cloud & Infrastructure
+- AWS, Google Cloud
+- Cloudflare
+- GitHub Pages
+- Production-oriented deployment patterns
+
+---
+
+## 🧩 AI Frameworks & Libraries Ecosystem
+
+> Core frameworks and libraries for building AI-powered applications and intelligent systems.
+
+| Project | Description |
+|------|------------|
+| 🚀 **Claude-Flow** | Agent orchestration platform for multi-agent workflows |
+| 🔐 **Agent Name Service (ANS)** | Secure registry for agent discovery (OWASP-aligned) |
+| 🛠️ **Agile Agents (A2)** | Serverless intelligent agent framework |
+| 🧠 **AgenticsJS** | Intelligent search with real-time visualization |
+| 🌊 **Agentic Diffusion** | Diffusion-based generative planning framework |
+| ⚡ **DSPy.ts** | Browser-based AI framework for JS/TS |
+| 🛡️ **GuardRail Data Analysis System** | Safety-first AI analysis framework |
+| 🧠 **SAFLA** | Production-ready autonomous AI system |
+| 📐 **SPARC** | Specification → Architecture → Refinement methodology |
+
+---
+
+## 🤖 Agentic Systems & Automation
+
+### Core Agent Frameworks
+- 🤖 Agent Algorithm Repository  
+- 🪰 Agentic Employment Framework  
+- ⚙️ AgentXNG (Claude-powered CLI)  
+- 🏛️ AI-Driven Decentralized Organization (AIDO)  
+- ⚡ Inflight Agentics (real-time autonomous execution)
+
+### Edge & Distributed Agents
+- 📡 Agentic Edge Functions  
+- 🛰️ Agentic Preview (FastAPI + Fly.io)
+
+---
+
+## 🗨️ Chatbots & Conversational AI
+
+- 🗨️ Agentic Voice (real-time AI chat)
+- 🔊 Omnipotent (voice interface using OpenAI Speech)
+- 🧮 Symbolic Scribe (math-driven prompt engineering)
+- 🧠 SynthLang (prompt optimization)
+- 📞 Voicebot (AI phone interviews)
+
+---
+
+## 🧰 Developer Tools & Utilities
+
+- 🐝 CodeSwarm (VSCode MCP server)
+- 🔄 Claude Code MCP – code-flow mode
+- 🧩 SPARC IDE (agentic development IDE)
+- 🔍 Reflective Engineer (LangChain-based dev env)
+
+---
+
+## 🔒 Security & Automation
+
+- 🔒 Agentic Security
+- 🔍 Agentic Security Scanner
+- 🌐 Auto-Browser (AI web automation)
+
+---
+
+## 📊 Data, ML & Cognitive Systems
+
+- 📑 Agentic Reports
+- 📊 GenAI-Superstream
+- 🧪 Mixture of Experts (MoE)
+- 🧠 Cognitive Reasoning Frameworks
+- 🤖 Sentient Systems
+
+---
+
+## 🎨 UI / UX & Visualization
+
+- 🚀 Infinity UI (Sci-Fi interfaces)
+- 🦙 Llamastack UI
+- 💻 rUvix (retro-futuristic terminal UI)
+- 🎨 retro-ai-ui
+
+---
+
+## ☁️ Cloud, Infra & Quantum Exploration
+
+- 🤖 Agentic DevOps
+- 🗂️ supa-ruv (Supabase + AI)
+- ⚛️ Quantum Agentics
+- 🔭 Quantum Navigation & Computing Systems
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+**Languages**  
+Java • Python • JavaScript • C  
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Web**  
+HTML • CSS • REST APIs  
 
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+**AI / ML**  
+LLMs • RAG • Agentic Pipelines • MCP  
 
----
-
-## 🧩 Featured Project
-
-### 🔹 Domain Agentic LLM System
-**Production-style GenAI system designed for interviews**
-
-**Highlights**
-- Agentic orchestration (intent → retrieval → reasoning)
-- Strict JSON-only LLM outputs
-- Deterministic evaluation layer
-- Grounding + schema enforcement
-- Bounded self-correction
-- Pytest-based reliability tests
-
-> This project demonstrates how **real GenAI systems are built**, not how demos are shown.
+**Cloud**  
+AWS • Google Cloud • Cloudflare  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv15112004&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv15112004&show_icons=true&theme=dark&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv15112004&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv15112004&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv15112004&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-maheshwari-ba58b7259/)
 
 ---
 
-## 🧠 Engineering Philosophy
-
-- Reliability > Flashy demos  
-- Determinism > Random outputs  
-- Systems thinking > Prompt hacking  
-
-> *I aim to give **120% effort** — not just to finish projects, but to understand them deeply.*
-
----
+<p align="center">
+  <b>Working hard to give 120% — in engineering, learning, and execution.</b>
+</p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Dhruv15112004&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=Dhruv15112004&icon=0&color=0"/>
 </p>
+
