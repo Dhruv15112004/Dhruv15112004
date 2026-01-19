@@ -1,42 +1,113 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/6a6453bc40c986c7e08dfbac66e5c6b4ab4bf025b04b22fe3ccac0c9a0f4f1ec/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d352c312c352c31322c323126746578743d4869253230546865726521266865696768743d31353026616e696d6174696f6e3d66616465496e26666f6e7453697a653d3735" alt="Background" style="width:100%; max-width:1200px; height:auto;"/>
-  <br />
-  <span style="font-size: 4em; color: white; background: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px;">
-  </span>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,1,5,12,21&text=Hi%20There!&height=160&animation=fadeIn&fontSize=70" />
 </p>
-Welcome to my GitHub profile! 
 
-I'm a dedicated **Front-End Developer** passionate about creating visually appealing and user-friendly web experiences. Currently, I'm focusing on honing my skills in HTML, CSS, and JavaScript, with a keen interest in building responsive and interactive websites. I am also working on Data Structures and Algorithms (DSA) in Java, pushing daily to get better in it.
+<h1 align="center">Dhruv Maheshwari</h1>
+<h3 align="center">Frontend Developer | GenAI & Agentic Systems Enthusiast</h3>
 
-![Animated Pic](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif) 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-maheshwari-ba58b7259/) 
-
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dhruv15112004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruv15112004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv15112004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dhruv15112004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Dev Quote
-![Coding Quote](https://www.codecademy.com/resources/blog/wp-content/uploads/2024/01/Chris-Pine-quote.png?w=800)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dhruv15112004&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Dhruv15112004&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Feel free to explore my repositories and reach out if you’d like to collaborate on a project or just say hi!
+<p align="center">
+  Building reliable, production-style systems — not demos.
+</p>
 
 ---
 
-*Working hard to give my 120% in every project!*💪
+## 🚀 About Me
 
+I’m a **Frontend Developer** with a growing focus on **Generative AI engineering and agentic systems**.  
+I care deeply about **engineering rigor**, **clean abstractions**, and **production-readiness**.
+
+- 🎯 Building **recruiter-ready GenAI projects**, not toy chatbots  
+- 🧠 Strong fundamentals in **LLMs, RAG pipelines, and reliability engineering**  
+- 💻 Frontend background with HTML, CSS, JavaScript  
+- 📚 Daily practice of **DSA in Java** for problem-solving depth  
+- ⚙️ Obsessed with *why systems fail* — and how to make them robust
+
+> *I don’t just make things work. I make them dependable.*
+
+---
+
+## 🧠 Current Focus (2025–Present)
+
+- **Domain Agentic LLM Systems**
+  - Intent → Retrieval → Reasoning orchestration
+  - Deterministic evaluation & schema validation
+  - Grounded responses, bounded retries, failure logging
+- **LLM Reliability Engineering**
+  - Consistency testing
+  - Confidence calibration
+  - Retry logic & failure modes
+- **Frontend Engineering**
+  - Responsive layouts
+  - Clean UI logic
+  - Performance-aware design
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🧩 Featured Project
+
+### 🔹 Domain Agentic LLM System
+**Production-style GenAI system designed for interviews**
+
+**Highlights**
+- Agentic orchestration (intent → retrieval → reasoning)
+- Strict JSON-only LLM outputs
+- Deterministic evaluation layer
+- Grounding + schema enforcement
+- Bounded self-correction
+- Pytest-based reliability tests
+
+> This project demonstrates how **real GenAI systems are built**, not how demos are shown.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv15112004&show_icons=true&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv15112004&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv15112004&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-maheshwari-ba58b7259/)
+
+---
+
+## 🧠 Engineering Philosophy
+
+- Reliability > Flashy demos  
+- Determinism > Random outputs  
+- Systems thinking > Prompt hacking  
+
+> *I aim to give **120% effort** — not just to finish projects, but to understand them deeply.*
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Dhruv15112004&icon=0&color=0" />
+</p>
