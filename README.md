@@ -166,14 +166,7 @@ AWS • Google Cloud • Cloudflare
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Dhruv15112004&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv15112004&theme=tokyonight&hide_border=true"
-    height="165"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruv15112004&theme=tokyonight" />
 </p>
 
 ---
